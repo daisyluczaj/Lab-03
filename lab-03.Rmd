@@ -74,10 +74,10 @@ What is the difference between *wide format* data and *long format* data?
 wide format is where observations are spread across several columns, long format is every column is where every olumn is a seperate variable ad every row is a different obsrevation.
 
 Is the format `staff` data *wide* or *long*?
-
+wide
 
 How many observations are there in the data set?
-
+55
 
 
 
